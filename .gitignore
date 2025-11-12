@@ -1,0 +1,6 @@
+# Ignorar carpetas y archivos compilados
+.vscode/
+bin/
+*.class
+*.log
+
